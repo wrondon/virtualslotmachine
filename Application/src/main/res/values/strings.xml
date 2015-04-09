@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+ Copyright 2014 The Android Open Source Project
+
+ Licensed under the Apache License, Version 2.0 (the "License");
+ you may not use this file except in compliance with the License.
+ You may obtain a copy of the License at
+
+     http://www.apache.org/licenses/LICENSE-2.0
+
+ Unless required by applicable law or agreed to in writing, software
+ distributed under the License is distributed on an "AS IS" BASIS,
+ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+ See the License for the specific language governing permissions and
+ limitations under the License.
+-->
+
+<resources>
+    <string name="element_text">Element</string>
+    <string name="grid_layout_manager">Grid Layout Manager</string>
+    <string name="linear_layout_manager">Linear Layout Manager</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">click spin to play or payout to quit. Good Luck!</string>
+    <string name="max_spin">Max Credit and Spin</string>
+    <string name="add1credit">Add 1 Credit</string>
+    <string name="spin">Spin</string>
+    <string name="payout">Payout (quit)</string>
+    <string name="wonlast">Won on las spin : </string>
+    <string name="currentcredit">Current credit accumulated: </string>
+    <string name="slot01">slot01</string>
+    <string name="slot02">slot02</string>
+    <string name="slot03">slot03</string>
+    <string name="valuewon">value-won</string>
+    <string name="valuecurrent">value-current</string>
+    <string name="currentlyplaying">Currently Playing CREDITS :</string>
+    <string name="playingcredits">playing-credits</string>
+</resources>

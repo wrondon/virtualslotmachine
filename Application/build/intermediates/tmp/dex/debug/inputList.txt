@@ -1,0 +1,7 @@
+/home/william/AndroidStudioProjects/AVirtualSlotMachine/Application/build/intermediates/classes/debug
+/home/william/AndroidStudioProjects/AVirtualSlotMachine/Application/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-088519d52e38e4a24d740590a22f853088dc0525.jar
+/home/william/AndroidStudioProjects/AVirtualSlotMachine/Application/build/intermediates/pre-dexed/debug/classes-10df4894939f8a367a43d663cec07da035defc28.jar
+/home/william/AndroidStudioProjects/AVirtualSlotMachine/Application/build/intermediates/pre-dexed/debug/classes-4bfb1a91fdc58bac9c634848f3804d6299bbca53.jar
+/home/william/AndroidStudioProjects/AVirtualSlotMachine/Application/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-b24e9301735e4ee813e50427c2f84b66a88dbd56.jar
+/home/william/AndroidStudioProjects/AVirtualSlotMachine/Application/build/intermediates/pre-dexed/debug/classes-7f197dfada499fd70d9d195fd0fc758b4b16603f.jar
+/home/william/AndroidStudioProjects/AVirtualSlotMachine/Application/build/intermediates/pre-dexed/debug/classes-f492b412618debfd9962ff2b343f16b401855c75.jar

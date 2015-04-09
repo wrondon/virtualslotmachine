@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/william/AndroidStudioProjects/AVirtualSlotMachine/Application/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c6d79137693d494dee16372d3921f919eb724ced">
+        <dex dex="/home/william/AndroidStudioProjects/AVirtualSlotMachine/Application/build/intermediates/pre-dexed/debug/classes-7f197dfada499fd70d9d195fd0fc758b4b16603f.jar" />
+    </item>
+    <item
+        jar="/home/william/AndroidStudioProjects/AVirtualSlotMachine/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/libs/internal_impl-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b5b92f469d515a13d778900f6d50c03d12f35504">
+        <dex dex="/home/william/AndroidStudioProjects/AVirtualSlotMachine/Application/build/intermediates/pre-dexed/debug/internal_impl-22.0.0-b24e9301735e4ee813e50427c2f84b66a88dbd56.jar" />
+    </item>
+    <item
+        jar="/home/william/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/22.0.0/support-annotations-22.0.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="685d0b2c590447e85284ed84712cb363ba04eff8">
+        <dex dex="/home/william/AndroidStudioProjects/AVirtualSlotMachine/Application/build/intermediates/pre-dexed/debug/support-annotations-22.0.0-088519d52e38e4a24d740590a22f853088dc0525.jar" />
+    </item>
+    <item
+        jar="/home/william/AndroidStudioProjects/AVirtualSlotMachine/Application/build/intermediates/exploded-aar/com.android.support/support-v4/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4e86306289ace4aa0cfec44a05ed2b410d36989d">
+        <dex dex="/home/william/AndroidStudioProjects/AVirtualSlotMachine/Application/build/intermediates/pre-dexed/debug/classes-f492b412618debfd9962ff2b343f16b401855c75.jar" />
+    </item>
+    <item
+        jar="/home/william/AndroidStudioProjects/AVirtualSlotMachine/Application/build/intermediates/exploded-aar/com.android.support/gridlayout-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c9e0c6fc22b22b96d0db564cf073ab6f288bb758">
+        <dex dex="/home/william/AndroidStudioProjects/AVirtualSlotMachine/Application/build/intermediates/pre-dexed/debug/classes-4bfb1a91fdc58bac9c634848f3804d6299bbca53.jar" />
+    </item>
+    <item
+        jar="/home/william/AndroidStudioProjects/AVirtualSlotMachine/Application/build/intermediates/exploded-aar/com.android.support/cardview-v7/22.0.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="11842de6a309c447b3a3d60d73ad637a87c58994">
+        <dex dex="/home/william/AndroidStudioProjects/AVirtualSlotMachine/Application/build/intermediates/pre-dexed/debug/classes-10df4894939f8a367a43d663cec07da035defc28.jar" />
+    </item>
+
+</items>
